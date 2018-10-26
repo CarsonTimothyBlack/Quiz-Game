@@ -12,11 +12,11 @@ for (var i = 0; i < 3; i += 1) {
   if (ans === quiz[i][1]){
     alert('Correct!');
     correct += 1;
-    print('<p>You answered ' + quiz[i][0] + ' correctly.</p>');
+    print('<p>You answered the question "' + quiz[i][0] + '" correctly.</p>');
   } else {
     alert('Wrong!');
     wrong += 1;
-    print('<p>You answered ' + quiz[i][0] + ' incorrectly.</p>');
+    print('<p>You answered the question "' + quiz[i][0] + '" incorrectly.</p>');
   }
 }
 
