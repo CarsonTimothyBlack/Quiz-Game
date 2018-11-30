@@ -1,2 +1,2 @@
-# JavaScript projects
-Some javaScript projects from Team Treehouse. A good reference for algorithm help.
+# JavaScript Quiz Game
+A simple Javascript quiz game.
